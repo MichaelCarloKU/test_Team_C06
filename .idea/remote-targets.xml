@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="134ffb90-6503-42c4-87df-ce3003e52df5" />
+    <targets>
+      <target name="student@raspberrypi.local:22" type="ssh/sftp" uuid="134ffb90-6503-42c4-87df-ce3003e52df5">
+        <config>
+          <option name="projectRootOnTarget" value="/home/student/test" />
+          <option name="serverName" value="student@raspberrypi.local:22 password" />
+        </config>
+      </target>
+    </targets>
+  </component>
+</project>
